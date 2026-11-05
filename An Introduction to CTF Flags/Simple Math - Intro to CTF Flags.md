@@ -14,7 +14,7 @@ Flag is in the format CTS{answer}
 
 > Points Awarded: 1
 
-## FLAG
+## THE FLAG
 
 Spoilers below!
 
