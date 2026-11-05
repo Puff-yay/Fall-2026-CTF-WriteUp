@@ -2,6 +2,11 @@
 
 This event took place on November 4th, 2026.
 
+The participants were given ~90 minutes to get as many points as they can, without the use of AI.
+Teams caught using AI would be disqualified.
+This event contained 45 challenges and 23 of them are made by me (documented here).
+Thank you both the MOS and UBSIT e-boards especially MOS President (Alyssa Gannon) and UBSIT President (Tyler Lorence) for putting this event together.
+
 This repository will contain all of the challenges I made for this event, including:
 - Overview (what participants saw, including point value)
   - Hints provided will also be in this section, under spoilers of course.
