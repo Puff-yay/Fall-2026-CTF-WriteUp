@@ -1,7 +1,6 @@
 # Simple Math - Intro to CTF Flags
 
 ## OVERVIEW
-============
 
 #### Skip to the bolded text if you know how to submit flags.
 Otherwise, read as normal.
@@ -14,8 +13,6 @@ What's 8 + 7?
 Flag is in the format CTS{answer}
 
 > Points Awarded: 1
-
-============
 
 ## The Flag
 
