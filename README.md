@@ -15,5 +15,3 @@ Most of my challenges spanned a couple of categories including but not limited t
 - HaXOR (and the storyline that comes with it)
 - OSINT
 - Miscellaneous
-
-This was also my first time using CTFd so I'll also explain some of the key admin configs.
