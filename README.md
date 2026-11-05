@@ -4,6 +4,7 @@ This event took place on November 4th, 2026.
 
 This repository will contain all of the challenges I made for this event, including:
 - Overview (what participants saw, including point value)
+  - Hints provided will also be in this section, under spoilers of course
 - Flag (in spoilers of course)
 - Intended Solution (steps to get to the flag)
 - Personal Thoughts
