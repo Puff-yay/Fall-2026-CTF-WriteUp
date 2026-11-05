@@ -3,7 +3,7 @@
 ## OVERVIEW
 ============
 
-#### Skip to the big bolded text if you know how to submit flags.
+#### Skip to the bolded text if you know how to submit flags.
 Otherwise, read as normal.
 
 When you do a CTF, the answer must include the maker's prefix (ours is CTS) and a set of curly brackets { } wrapped around your answer. The curly brackets are next to the P key on a keyboard. For example, if your answer is 24, you will submit CTS{24}
@@ -12,3 +12,5 @@ When you do a CTF, the answer must include the maker's prefix (ours is CTS) and 
 What's 8 + 7?
 
 Flag is in the format CTS{answer}
+
+============
