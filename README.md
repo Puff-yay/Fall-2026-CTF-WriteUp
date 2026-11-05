@@ -16,3 +16,5 @@ Most of my challenges spanned a couple of categories including but not limited t
 - HaXOR (and the storyline that comes with it)
 - OSINT
 - Miscellaneous
+
+Disclaimer: For GitHub styling purposes, some of the text will be very minimally altered to make it more pleasant to read. It will not affect the challenge in any way shape of form.
