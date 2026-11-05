@@ -21,5 +21,5 @@ Flag is in the format CTS{answer}
 
 <details>
 <summary>The flag is: </summary>
-  'CTS{15}'
+  `CTS{15}`
 </details>
