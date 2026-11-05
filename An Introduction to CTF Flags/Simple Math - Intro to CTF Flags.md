@@ -13,4 +13,10 @@ What's 8 + 7?
 
 Flag is in the format CTS{answer}
 
+> Points Awarded: 1
+
 ============
+
+## The Flag
+
+<details><summary>The flag is:</summary>CTS{15}</details>
