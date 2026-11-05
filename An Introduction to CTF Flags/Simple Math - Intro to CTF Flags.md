@@ -19,8 +19,9 @@ Flag is in the format CTS{answer}
 
 ## The Flag
 
-<details>
-<summary>The flag is: <code>CTS{15}</code></summary>
+Spoilers below!
 
-The hidden content goes here.
+<details>
+<summary>The flag is:</summary>
+<code>CTS{15}</code>
 </details>
