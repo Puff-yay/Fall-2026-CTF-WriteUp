@@ -44,11 +44,13 @@ ROT13 on pelcgbtenculvafnavgl is cryptographyinsanity
 My personal thoughts on this flag:
 </summary>
 
-This was my second flag ever made. I told the other people that if nobody made a harder flag, I might change this to be Vytelus, King of Cryptography. But then, I realized that I think this name has a better ring to it so it remains Archpriestess etc...
+This was my second flag ever made. I told the other people that if nobody made a harder flag, I might change this to be Vytelus, King of Cryptography. But then I realized that, I think this name has a better ring to it so the name is still Archpriestess Kiryne, Queen of Cryptography
 
 I had a lot of fun in thinking about how to encrypt something. i remember hearing Ted-Ed's sorting hat riddle and how the answer required you to line up the names of the people and the "house" they belonged to and then read out the diagonal to form "minotaur". I also remember how in roblox, some games made you go to a pastebin to get a code or your next step so I took inspiration from that. This challenge was only supposed to have 2 ciphers with the diagonals spelling the answer but then I decided to make a final twist to make it even better.
 
 I will admit some of the hint values were too low but also they didn't reveal a whole lot besides the first one telling you ROT from rotate and presidencies in the US (47).
+
+Oh I also forgot to mention, the name was taken from the first boss in a game called Dungeon Quest Reborn, specifically the Gilded Skies dungeon (the hardest dungeon at the time).
 
 Difficulty (out of 100): 40
 Reason: Triple cipher, but not too hard. If I had used a crazier cipher the difficulty would be a lot higher.
