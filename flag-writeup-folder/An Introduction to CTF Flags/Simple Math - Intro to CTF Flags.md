@@ -23,7 +23,7 @@ Spoilers below!
 <code>CTS{15}</code>
 </details>
 
-## Intended Solution
+## INTENDED SOLUTION
 
 <details>
 <summary>
