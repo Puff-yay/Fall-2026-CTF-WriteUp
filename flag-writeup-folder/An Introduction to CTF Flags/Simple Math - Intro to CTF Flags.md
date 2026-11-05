@@ -23,3 +23,23 @@ Spoilers below!
 <code>CTS{15}</code>
 </details>
 
+## Intended Solution
+
+<details>
+<summary>
+8 + 7 is 15. Wrap your answer in curly brackets.
+15 -> {15}
+
+Remember to attach the maker's prefix.
+{15} -> CTS{15}
+</summary>
+</details>
+
+## PERSONAL THOUGHTS
+
+I wanted to make this flag as simple as possible, breaking down what goes into a flag. I wanted to teach them about what I called a "maker's prefix" because it varies from event to event. For example, MetaCTF's prefix is MetaCTF and UBSEC's prefix is UBSEC. Ours is CTS.
+
+I also wanted to teach them about the use of curly brackets as a "container" to hold the answer.
+
+Difficulty (out of 100): 1.
+Reason: Baseline Flag. Answer is handed on a silver platter and the question was a simple math problem.
