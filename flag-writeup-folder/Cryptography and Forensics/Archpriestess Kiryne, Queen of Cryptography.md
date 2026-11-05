@@ -20,7 +20,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{sh1ft3d_fr3nzy}</code>
+<code>CTS{cryptographyinsanity}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -29,9 +29,12 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-VllEe2RqMmd5NGYrZ3Q0bXh1fQ== --(base 64)--> VYD{dj2gy4f+gt4mxu}
-VYD on a keyboard is one key to the right of CTS.
-Continuing that logic, it becomes CTS{sh1ft3d_fr3nzy}
+Do a ROT47 cipher on the given message. 
+You get: pastebin Ky0PNBb8
+Take the first letter of the first word, second letter of the second word etc. When you are trying to find the 10th letter, you take the 1st letter of the 10th word.
+pelcgbtenculvafnavgl is the answer after step 2.
+You are then supposed to realize brain (ROT) and friday the (13)th to make ROT13.
+ROT13 on pelcgbtenculvafnavgl is cryptographyinsanity
 </details>
 
 ## PERSONAL THOUGHTS
@@ -40,11 +43,12 @@ Continuing that logic, it becomes CTS{sh1ft3d_fr3nzy}
 <summary>
 My personal thoughts on this flag:
 </summary>
-This might be a re-occurring event but quite a lot of these were made close to the event day, some made on the event day itself.
-I was thinking about a double cipher after one of my other challenges I made earlier (Archpriestess Kiryne, Queen of Cryptography)
-I love the mini stories I put into these; they are fun to make.
+This was my second flag ever made. I told the other people that if nobody made a harder flag, I might change this to be Vytelus, King of Cryptography. But then, I realized that I think this name has a better ring to it so it remains Archpriestess etc...
 
-Difficulty (out of 100): 25
-Reason: Definitely one of the harder flags I've made during this. Definitely not too tricky after testing a bunch of ciphers for step one.
-</details>
+I had a lot of fun in thinking about how to encrypt something. i remember hearing Ted-Ed's sorting hat riddle and how the answer required you to line up the names of the people and the "house" they belonged to and then read out the diagonal to form "minotaur". I also remember how in roblox, some games made you go to a pastebin to get a code or your next step so I took inspiration from that. This challenge was only supposed to have 2 ciphers with the diagonals spelling the answer but then I decided to make a final twist to make it even better.
+
+I will admit some of the hint values were too low but also they didn't reveal a whole lot besides the first one telling you ROT from rotate and presidencies in the US (47).
+
+Difficulty (out of 100): 40
+Reason: Triple cipher, but not too hard. If I had used a crazier cipher the difficulty would be a lot higher.
 
