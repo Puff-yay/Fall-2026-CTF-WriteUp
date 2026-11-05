@@ -20,5 +20,6 @@ Flag is in the format CTS{answer}
 ## The Flag
 
 <details>
-<summary>The flag is: `CTS{15}`</summary>
+<summary>The flag is: </summary>
+  'CTS{15}'
 </details>
