@@ -20,8 +20,9 @@ Spoilers below!
 
 <details>
 <summary>
-I expected them to just read the name of the challenge. That's all.
+The solution is:
 </summary>
+I expected them to just read the name of the challenge. That's all.
 </details>
 
 ## PERSONAL THOUGHTS
