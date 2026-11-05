@@ -27,12 +27,13 @@ Spoilers below!
 
 <details>
 <summary>
+The solution is:
+</summary>
 8 + 7 is 15. Wrap your answer in curly brackets.
 15 -> {15}
 
 Remember to attach the maker's prefix.
 {15} -> CTS{15}
-</summary>
 </details>
 
 ## PERSONAL THOUGHTS
