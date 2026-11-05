@@ -30,4 +30,5 @@ I expected them to just read the name of the challenge. That's all.
 I made this flag on the day of the event. I remember asking an AI to make a story about ancient history and told it to include numbers. I remember doing something for UB's Cybersecurity Escape (which is kinda terrible since they reuse the same stuff every year) where the password was on the top of one of the papers.
 
 Difficulty (out of 100): 3 
+
 Reason: Easy flag. The story being kind of long winded and also the amount of numbers thrown at you is kind of overwhelming. But, the answer is handed on a silver platter still.
