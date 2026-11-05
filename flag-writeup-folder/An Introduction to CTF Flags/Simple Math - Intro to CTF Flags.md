@@ -43,4 +43,5 @@ I wanted to make this flag as simple as possible, breaking down what goes into a
 I also wanted to teach them about the use of curly brackets as a "container" to hold the answer.
 
 Difficulty (out of 100): 1.
+
 Reason: Baseline Flag. Answer is handed on a silver platter and the question was a simple math problem.
