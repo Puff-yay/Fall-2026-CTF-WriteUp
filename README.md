@@ -26,4 +26,4 @@ Most of my challenges spanned a couple of categories including:
 - Tech News
 - Miscellaneous
 
-Disclaimer: For GitHub styling purposes, some of the text will be very minimally altered to make it more pleasant to read. It will not affect the challenge in any way shape of form.
+Disclaimer: Some challenges are visually different than what the participants saw in the CTF. These will be pointed out <bold>if necessary</bold>.
