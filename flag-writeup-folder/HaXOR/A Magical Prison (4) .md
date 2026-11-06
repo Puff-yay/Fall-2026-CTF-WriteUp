@@ -10,8 +10,7 @@ The head chief of the FBI looks at you dead in the eye. "You weren't supposed to
 
 The last thing you hear from him is: "Also, I threw the key away"
 
-> Points awarded: 40
-
+> Points awarded: 40 <br>
 > Prerequisite: Completion of "His Final Hex Attempt" (Part 3 of 7)
 
 ## THE FLAG
@@ -38,9 +37,9 @@ Plain and simple. You were supposed to XOR Brute Force this.
 <summary>
 My personal thoughts on this flag:
 </summary>
+  <br>
 I wanted to continue making more hexadecimal challenges. Also, previous names of this challenge included "Punishment" and "A Magical Prison - Punishment". I could not be bothered to change the flag.
 
-Difficulty (out of 100): 20
-
+Difficulty (out of 100): 20 <br>
 Reason: It's quite easy to look up a XOR Bruteforce.
 </details>
