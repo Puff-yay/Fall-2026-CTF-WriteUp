@@ -31,7 +31,7 @@ Do a ROT47 cipher on the given message.
 You get: pastebin Ky0PNBb8
 Take the first letter of the first word, second letter of the second word etc. When you are trying to find the 10th letter, you take the 1st letter of the 10th word.
 pelcgbtenculvafnavgl is the answer after step 2.
-You are then supposed to realize brain (ROT) and friday the (13)th to make ROT13.
+Brain (ROT) and Friday the (13)th combines to form ROT13.
 ROT13 on pelcgbtenculvafnavgl is cryptographyinsanity
 </details>
 
