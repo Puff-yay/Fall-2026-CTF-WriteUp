@@ -38,10 +38,10 @@ Same thing with the first challenge, pop every single value into an XOR calculat
 My personal thoughts on this flag:
 </summary>
 <br>
-A play on words. I love when I can do that.
-
-Originally, I thought this storyline was going to be very incoherent. I think I turned it into a neat little package of a story. Didn't help that I started the story on challenge 4 of 7 but whatever.
-
+A play on words. I love when I can do that. <br>
+<br>
+Originally, I thought this storyline was going to be very incoherent. I think I turned it into a neat little package of a story. Didn't help that I started the story on challenge 4 of 7 but whatever. <br>
+<br>
 I realized that the reason why nobody chose to go for this was the tediousness of the flag length. I think if it was shorter then maybe it could work? <br>
 <br>
 Difficulty (out of 100): 5 <br>
