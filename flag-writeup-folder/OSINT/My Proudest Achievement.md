@@ -6,7 +6,7 @@ I like to showcase my hardest roblox parkour feats in my discord bio. Oh, I'm al
 
 What's the difficulty rating of my hardest tower beaten?
 
-[UBSIT's Discord}(ubsit.club/discord)
+[UBSIT's Discord](ubsit.club/discord)
 
 ---------------------------------------------------------------------------
                                    LOGIN:
