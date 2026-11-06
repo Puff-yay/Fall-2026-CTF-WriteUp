@@ -40,7 +40,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{653846432424672560908}</code>
+<code>CTS{1, 3, 4, 8}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -49,11 +49,10 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-XOR "aloha" and "freedom" to get 28835809281640204.<br>
-Take each of the colors (#6C9E8B), (#693E0F), and (#375FC4) and turn them into R G B values.<br>
-(108, 158, 139) & (105, 62, 15) & (55, 95, 196) <br>
-Now, multiply all 9 numbers together to get 237197581430040000 <br>
-XOR the aloha/freedom number and this RGB number to get the flag number.
+The two tea trays are meant to be sets. Set one has items {5, 8, 3} and set two has items {6, 4, 1}<br>
+When the old lady/grandma gives you a macaron to eat, you're supposed to turn the 6 macarons in set 2 into 5.<br>
+This is when you are ready to XOR. XORing sets meaning any time you see something in set 1 and the same thing in set 2, you cancel them both out because the XOR logic gate says an input of 1 on both inputs gives you an output of 0. <br>
+Combine any values that survived the XOR to complete XORing sets and make sure to put them in ascending order per the instructions. <br>
 </details>
 
 ## PERSONAL THOUGHTS
@@ -63,9 +62,11 @@ XOR the aloha/freedom number and this RGB number to get the flag number.
 My personal thoughts on this flag:
 </summary>
   <br>
-  Text goes here.
+As I'm making this writeup, I'm starting to realize I used both old lady and grandma interchangeably. Oh well.
 <br>
-Difficulty (out of 100): 60 <br>
-Reason: The aloha and freedom XOR was a bit obscure, but the meat and potatoes of the difficulty comes from people who did not use hints to try to solve this. I think it's possible for some people to think of getting the RGB values but the hardest part is what to do with them. Not many people would think to just multiply all 9 of them. i can think of situations where people would only multiply or even add the Rs Gs and Bs before multiplying them all together and then just not getting it right. There are so many ways to get a wrong answer. I even told the answer to another person making challenges alongside me, Alyssa. After I told her the answer, she says and quote "I'd be shocked if anyone gets that".
+I searched up what else you can XOR and when I saw sets pop up, I thought about how cool would it be to make a challenge around that. Since I'm also a MasterChef Canada and Dessert Masters fan, I was thinking about the tea trays presented in S2 of MasterChef Canada and Anna Polyviou's High Tea Tray she made in S1. I also made sure that the tea trays in the challenge sounded appetizing and also I gave them very nice descriptions because I just love my descriptions.<br>
+  <br>
+Difficulty (out of 100): 5 <br>
+Reason: 
 </details>
 
