@@ -53,6 +53,7 @@ Shoutout to BitHaven for inspiring this XOR series with their XOR challenges in 
 There was originally another challenge after this called "Reverse It!" with 2 decimal numbers and asking for a binary answer. Sadly, that challenge has since been deleted. It also awarded 5 points.
 
 Difficulty (out of 100): 2
+
 Reason: There's a calculator online that can do this.
 </details>
 
