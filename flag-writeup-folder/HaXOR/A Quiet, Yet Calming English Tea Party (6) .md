@@ -17,6 +17,7 @@ Tray two has:<br>
 * four crumpets, with strawberry jam on the side.<br>
 * and one pack of skittles, just in case you don't fancy tea trays.<br>
 ​<br>
+
 "Have a vanilla macaron" she joyously says.<br>
 ​<br>
 You eat the mint & vanilla macaron and feel refreshed, but also very sleepy from the countless days you've outran the police getting to this home.<br>
