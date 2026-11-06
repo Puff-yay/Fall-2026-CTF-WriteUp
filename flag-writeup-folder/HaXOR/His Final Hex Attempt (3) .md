@@ -40,6 +40,8 @@ My personal thoughts on this flag:
   <br>
 I was thinking of fun ways to make hexes interesting. I was thinking about how numbers are always the key and I figured I could just make it a word problem. The hardest part about making this one was trying to figure out how to make the sieve story flow since the story was many AFTER this was already completed. <br>
 <br>
+In hindsight, this should have been 20 or 15 points due to it being the literal same as the last one but with a word problem that can be searched up.
+  <br>
 Difficulty (out of 100): 6 <br>
 Reason: Slight difficulty bump due to the riddle portion. Some people might get it quickly, some might need to search up what the sieve of Eratosthenes is. 
 </details>
