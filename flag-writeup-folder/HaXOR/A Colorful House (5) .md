@@ -18,7 +18,10 @@ What's the code to the door?<br>
 Expand beyond the normal world, the code is not 4 digits.<br>
 
 > Points awarded: 75 <br>
-> Prerequisite: Completion of "A Magical Prison" (Part 4 of 7)
+> Prerequisite: Completion of "A Magical Prison" (Part 4 of 7)<br>
+> Hint 1 (The True Key): <br>
+> Hint 2 (Colorful): <br>
+> Hint 3 (The Keypad): <br>
 
 ## THE FLAG
 
@@ -26,7 +29,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{H3xaGon4l_p41n_N_pUN1shm3nt}</code>
+<code>CTS{653846432424672560908}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -35,7 +38,7 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-Plain and simple. You were supposed to XOR Brute Force this.
+One side said "aloha" the other says "freedom"
 </details>
 
 ## PERSONAL THOUGHTS
