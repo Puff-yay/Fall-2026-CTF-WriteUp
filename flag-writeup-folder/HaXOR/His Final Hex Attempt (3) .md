@@ -10,7 +10,7 @@ An archaeologist gave me a piece of history. I was surprised he let me keep it. 
 
 > Points awarded: 25
 
-> Prerequisite: Completion of You are now... Hexed? (Part 2 of 7)
+> Prerequisite: Completion of "You are now... Hexed?" (Part 2 of 7)
 
 ## THE FLAG
 
