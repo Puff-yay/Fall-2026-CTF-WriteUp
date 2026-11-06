@@ -46,6 +46,7 @@ Originally, I thought this storyline was going to be very incoherent. I think I 
 I realized that the reason why nobody chose to go for this was the tediousness of the flag length. I think if it was shorter then maybe it could work?
 
 Difficulty (out of 100): 5
+
 Reason: There's a calculator online that can do this, but it might take a lot more time putting in the individual hexes.
 </details>
 
