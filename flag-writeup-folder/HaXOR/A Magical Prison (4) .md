@@ -38,8 +38,8 @@ Plain and simple. You were supposed to XOR Brute Force this.
 My personal thoughts on this flag:
 </summary>
   <br>
-I wanted to continue making more hexadecimal challenges. Also, previous names of this challenge included "Punishment" and "A Magical Prison - Punishment". I could not be bothered to change the flag.
-
+I wanted to continue making more hexadecimal challenges. Also, previous names of this challenge included "Punishment" and "A Magical Prison - Punishment". I could not be bothered to change the flag. <br>
+<br>
 Difficulty (out of 100): 20 <br>
 Reason: It's quite easy to look up a XOR Bruteforce.
 </details>
