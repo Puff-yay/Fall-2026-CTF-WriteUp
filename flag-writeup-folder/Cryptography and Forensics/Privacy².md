@@ -35,7 +35,7 @@ Continuing that logic, it becomes CTS{sh1ft3d_fr3nzy}
 My personal thoughts on this flag:
 </summary>
 This might be a re-occurring event but quite a lot of these were made close to the event day, some made on the event day itself.
-I was thinking about a double cipher after one of my other challenges I made earlier (Archpriestess Kiryne, Queen of Cryptography)
+I was thinking about a double cipher after one of my other challenges I made earlier (Archpriestess Kiryne, Queen of Cryptography).
 I love the mini stories I put into these; they are fun to make.
 
 Difficulty (out of 100): 25
