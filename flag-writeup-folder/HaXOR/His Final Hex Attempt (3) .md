@@ -9,6 +9,7 @@ You can hear the judge's fury in his voice. "If one count of hex won't do you in
 An archaeologist gave me a piece of history. I was surprised he let me keep it. The item? Eratosthenes's sive.  A strainer used to filter out something else other than pasta. "Thank you" I said. When I got home, I started by putting in some simple things. I put three goldfish in and it stayed, but put a fourth and all of the goldfish fell through. I learned that it was only big enough for a hundred goldfish. The amount I put in is quite a handful; it's digits adding to eleven.
 
 > Points awarded: 25
+
 > Prerequisite: Completion of You are now... Hexed? (Part 2 of 7)
 
 ## THE FLAG
