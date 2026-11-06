@@ -8,8 +8,8 @@ I was facetiming a friend recently and saw this message on the wall of his room.
 
 Flag is in the form of CTS{answer}
 
-> Points Awarded: 60<br>
-> <details><summary>Hint 1 (Cost: 10) </summary>Rotate me right 'round baby right 'round Rotate me the same number of times as there have been presidencies in the US.</details><br>
+> Points Awarded: 60<
+> <details><summary>Hint 1 (Cost: 10) </summary>Rotate me right 'round baby right 'round Rotate me the same number of times as there have been presidencies in the US.</details>
 > <details><summary>Hint 2 (Cost: 20) </summary>The diagonals wrap around, always left to right.</details>
 
 ## THE FLAG
