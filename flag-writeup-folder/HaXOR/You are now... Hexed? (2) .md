@@ -10,8 +10,7 @@ The FBI finds your ass and curses you for getting this far. In court, the judge 
 
 0x57
 
-> Points awarded: 10
-
+> Points awarded: 10 <br>
 > Prerequisite: Completion of "A Basic Mission" (Part 1 of 7)
 
 ## THE FLAG
@@ -38,15 +37,14 @@ Same thing with the first challenge, pop every single value into an XOR calculat
 <summary>
 My personal thoughts on this flag:
 </summary>
-
+<br>
 A play on words. I love when I can do that.
 
 Originally, I thought this storyline was going to be very incoherent. I think I turned it into a neat little package of a story. Didn't help that I started the story on challenge 4 of 7 but whatever.
 
-I realized that the reason why nobody chose to go for this was the tediousness of the flag length. I think if it was shorter then maybe it could work?
-
-Difficulty (out of 100): 5
-
+I realized that the reason why nobody chose to go for this was the tediousness of the flag length. I think if it was shorter then maybe it could work? <br>
+<br>
+Difficulty (out of 100): 5 <br>
 Reason: There's a calculator online that can do this, but it might take a lot more time putting in the individual hexes.
 </details>
 
