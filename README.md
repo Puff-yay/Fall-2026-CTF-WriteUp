@@ -26,4 +26,4 @@ Most of my challenges spanned a couple of categories including:
 - Tech News
 - Miscellaneous
 
-Disclaimer: Some challenges are visually different than what the participants saw in the CTF. These will be pointed out <bold>if necessary</bold>.
+Disclaimer: Some challenges are visually different than what the participants saw in the CTF. These will be pointed out **if necessary**.
