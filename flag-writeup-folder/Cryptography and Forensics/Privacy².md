@@ -39,6 +39,7 @@ I was thinking about a double cipher after one of my other challenges I made ear
 I love the mini stories I put into these; they are fun to make.<br>
 <br>
 Difficulty (out of 100): 25
+  
 Reason: Definitely one of the harder flags I've made during this. Definitely not too tricky after testing a bunch of ciphers for step one.
 </details>
 
