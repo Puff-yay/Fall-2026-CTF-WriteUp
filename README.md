@@ -10,6 +10,7 @@ Thank you both the MOS and UBSIT e-boards especially MOS President (Alyssa Ganno
 This repository will contain all of the challenges I made for this event, including:
 - Overview (what participants saw, including point value)
   - Hints provided will also be in this section, under spoilers of course.
+  - Prerequisites (specifically for HaXOR challenges) are included under here.
 - Flag (in spoilers of course)
 - Intended Solution (or at least MY intended solution)
 - Personal Thoughts
