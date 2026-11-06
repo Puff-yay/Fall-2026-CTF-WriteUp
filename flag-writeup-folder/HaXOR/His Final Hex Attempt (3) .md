@@ -1,17 +1,15 @@
-# You are now... Hexed?
+# His Final Hex Attempt
 
 ## OVERVIEW
 
-The FBI finds your ass and curses you for getting this far. In court, the judge reads your sentencing. "I sentence you to one count of getting hexed... Quite literally."
+You can hear the judge's fury in his voice. "If one count of hex won't do you in, I'll sentence you to another count of being hexed!!" As he's slowly casting his second hex, you think to yourself: *Is he actually on my side? He's giving me the answer to free myself from the hex!*
 
-*You know that it is pointless to lock up HaXORs in hexes because they'll break out easily. But does the judge know that?
+5e494e66752e65426e486f6b74292d6f60
 
-0x14 0x03 0x04 0x2c 0x3e 0x08 0x1f 0x67 0x27 0x32 0x08 0x22 0x08 0x1b 0x38 0x21 0x64 0x08 0x30 0x64 0x23 0x23 0x66 0x39 0x10 0x08 0x3f 0x64 0x2f 0x32 0x33 0x2a
+An archaeologist gave me a piece of history. I was surprised he let me keep it. The item? Eratosthenes's sive.  A strainer used to filter out something else other than pasta. "Thank you" I said. When I got home, I started by putting in some simple things. I put three goldfish in and it stayed, but put a fourth and all of the goldfish fell through. I learned that it was only big enough for a hundred goldfish. The amount I put in is quite a handful; it's digits adding to eleven.
 
-0x57
-
-> Points awarded: 10
-> Prerequisite: Completion of A Basic Mission (Part 1 of 7)
+> Points awarded: 25
+> Prerequisite: Completion of You are now... Hexed? (Part 2 of 7)
 
 ## THE FLAG
 
@@ -19,7 +17,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{i_H0pe_u_Lov3_g3tt1nG_h3xed}</code>
+<code>CTS{h3x_sUrvi40r}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -28,7 +26,9 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-Same thing with the first challenge, pop every single value into an XOR calculator and slowly get the answer piece by piece.
+The riddle in the second part is referencing the sieve of Eratosthenes. You are supposed to realize that the sieve is able to hold prime numbers and not composite numbers. The 100 goldfish cap is so that I'm not talking about some very big prime number. The only prime number whos digits add to 11 is 29. (2 + 9).
+
+The top part is a hex, but without the 0x parts. XOR every hexadecimal with 29 and you'll slowly spell out the flag.
 </details>
 
 ## PERSONAL THOUGHTS
@@ -37,13 +37,8 @@ Same thing with the first challenge, pop every single value into an XOR calculat
 <summary>
 My personal thoughts on this flag:
 </summary>
+I was thinking of fun ways to make hexes interesting. I was thinking about how numbers are always the key and I figured I could just make it a word problem. The hardest part about making this one was trying to figure out how to make the sieve story flow since the story was many AFTER this was already completed.
 
-A play on words. I love when I can do that.
-
-Originally, I thought this storyline was going to be very incoherent. I think I turned it into a neat little package of a story. Didn't help that I started the story on challenge 4 of 7 but whatever.
-
-I realized that the reason why nobody chose to go for this was the tediousness of the flag length. I think if it was shorter then maybe it could work?
-
-Difficulty (out of 100): 5
-Reason: There's a calculator online that can do this, but it might take a lot more time putting in the individual hexes.
+Difficulty (out of 100): 6
+Reason: Slight difficulty bump due to the riddle portion. Some people might get it quickly, some might need to search up what the sieve of Eratosthenes is. 
 </details>
