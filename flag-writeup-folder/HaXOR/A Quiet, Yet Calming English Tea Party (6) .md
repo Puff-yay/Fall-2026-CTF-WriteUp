@@ -66,7 +66,7 @@ As I'm making this writeup, I'm starting to realize I used both old lady and gra
 <br>
 I searched up what else you can XOR and when I saw sets pop up, I thought about how cool would it be to make a challenge around that. Since I'm also a MasterChef Canada and Dessert Masters fan, I was thinking about the tea trays presented in S2 of MasterChef Canada and Anna Polyviou's High Tea Tray she made in S1. I also made sure that the tea trays in the challenge sounded appetizing and also I gave them very nice descriptions because I just love my descriptions.<br>
   <br>
-Difficulty (out of 100): 5 <br>
-Reason: 
+Difficulty (out of 100): 3 <br>
+Reason: XORing sets is not that hard.
 </details>
 
