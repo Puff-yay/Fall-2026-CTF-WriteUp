@@ -22,7 +22,8 @@ CTS{safety_is_here_congratulations}<br>
 You've completed the HaXOR gauntlet. Congratulations!<br>
 <br>
 > Points awarded: 15 <br>
-> Prerequisite: Completion of "A Quiet, Yet Calming English Tea Party" (Part 6 of 7)
+> Prerequisite: Completion of "A Quiet, Yet Calming English Tea Party" (Part 6 of 7)<br>
+> Disclaimer: Fixed a typo that the contestants could have seen. (None of them got here so..)
 
 ## THE FLAG
 
