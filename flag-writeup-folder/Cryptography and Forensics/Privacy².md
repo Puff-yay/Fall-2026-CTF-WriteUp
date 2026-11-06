@@ -34,12 +34,12 @@ Continuing that logic, it becomes CTS{sh1ft3d_fr3nzy}
 <summary>
 My personal thoughts on this flag:
 </summary>
+  <br>
 This might be a re-occurring event but quite a lot of these were made close to the event day, some made on the event day itself.<br>
 I was thinking about a double cipher after one of my other challenges I made earlier (Archpriestess Kiryne, Queen of Cryptography).<br>
 I love the mini stories I put into these; they are fun to make.<br>
 <br>
-Difficulty (out of 100): 25
-  
+Difficulty (out of 100): 25 <br>
 Reason: Definitely one of the harder flags I've made during this. Definitely not too tricky after testing a bunch of ciphers for step one.
 </details>
 
