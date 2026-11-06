@@ -40,6 +40,8 @@ My personal thoughts on this flag:
   <br>
 I wanted to continue making more hexadecimal challenges. Also, previous names of this challenge included "Punishment" and "A Magical Prison - Punishment". I could not be bothered to change the flag. <br>
 <br>
+In hindsight, I should have also not made this 40 points. Maybe 25 or 30 points would have been more accurate. <br>
+  <br>
 Difficulty (out of 100): 20 <br>
 Reason: It's quite easy to look up a XOR Bruteforce.
 </details>
