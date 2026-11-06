@@ -53,5 +53,6 @@ I will admit some of the hint values were too low but also they didn't reveal a 
 Oh I also forgot to mention, the name was taken from the first boss in a game called Dungeon Quest Reborn, specifically the Gilded Skies dungeon (the hardest dungeon at the time).
 
 Difficulty (out of 100): 40
+
 Reason: Triple cipher, but not too hard. If I had used a crazier cipher the difficulty would be a lot higher.
 
