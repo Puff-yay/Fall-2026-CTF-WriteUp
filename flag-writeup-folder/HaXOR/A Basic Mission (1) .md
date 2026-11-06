@@ -45,15 +45,14 @@ Pop both binary values into an XOR calculator and ask it to spit out a decimal n
 <summary>
 My personal thoughts on this flag:
 </summary>
-
+<br>
 The storyline was meant to start with a challenge later down the line called, "A Colorful House".
 
 Shoutout to BitHaven for inspiring this XOR series with their XOR challenges in their own mini CTF (which is really hard, go check it out)
 
 There was originally another challenge after this called "Reverse It!" with 2 decimal numbers and asking for a binary answer. Sadly, that challenge has since been deleted. It also awarded 5 points.
 
-Difficulty (out of 100): 2
-
+Difficulty (out of 100): 2 <br>
 Reason: There's a calculator online that can do this.
 </details>
 
