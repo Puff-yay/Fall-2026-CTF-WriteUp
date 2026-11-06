@@ -8,8 +8,7 @@ You can hear the judge's fury in his voice. "If one count of hex won't do you in
 
 An archaeologist gave me a piece of history. I was surprised he let me keep it. The item? Eratosthenes's sive.  A strainer used to filter out something else other than pasta. "Thank you" I said. When I got home, I started by putting in some simple things. I put three goldfish in and it stayed, but put a fourth and all of the goldfish fell through. I learned that it was only big enough for a hundred goldfish. The amount I put in is quite a handful; it's digits adding to eleven.
 
-> Points awarded: 25
-
+> Points awarded: 25 <br>
 > Prerequisite: Completion of "You are now... Hexed?" (Part 2 of 7)
 
 ## THE FLAG
@@ -38,8 +37,9 @@ The top part is a hex, but without the 0x parts. XOR every hexadecimal with 29 a
 <summary>
 My personal thoughts on this flag:
 </summary>
-I was thinking of fun ways to make hexes interesting. I was thinking about how numbers are always the key and I figured I could just make it a word problem. The hardest part about making this one was trying to figure out how to make the sieve story flow since the story was many AFTER this was already completed.
-
-Difficulty (out of 100): 6
+  <br>
+I was thinking of fun ways to make hexes interesting. I was thinking about how numbers are always the key and I figured I could just make it a word problem. The hardest part about making this one was trying to figure out how to make the sieve story flow since the story was many AFTER this was already completed. <br>
+<br>
+Difficulty (out of 100): 6 <br>
 Reason: Slight difficulty bump due to the riddle portion. Some people might get it quickly, some might need to search up what the sieve of Eratosthenes is. 
 </details>
