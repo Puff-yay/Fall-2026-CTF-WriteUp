@@ -19,9 +19,9 @@ Expand beyond the normal world, the code is not 4 digits.<br>
 
 > Points awarded: 75 <br>
 > Prerequisite: Completion of "A Magical Prison" (Part 4 of 7)<br>
-> Hint 1 (The True Key): <br>
-> Hint 2 (Colorful): <br>
-> Hint 3 (The Keypad): <br>
+> <details><summary>Hint 1: The True Key (Cost: 15) </summary>"aloha" and "freedom"... and the category is all about XOR. Maybe give it a try?</details>
+> <details><summary>Hint 2: Colorful (Cost: 35) </summary>You were given perfect color vision for a reason. Maybe find the RGBs?</details>
+> <details><summary>Hint 3: The Keypad (Cost: 20) </summary>A common yet overlooked math operator, something you learned a while ago. Once you're down to two, it's go time.</details>
 
 ## THE FLAG
 
