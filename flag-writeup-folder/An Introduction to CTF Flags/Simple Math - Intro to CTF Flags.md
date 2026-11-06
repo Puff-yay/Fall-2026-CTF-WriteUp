@@ -42,6 +42,7 @@ Remember to attach the maker's prefix.
 <summary>
 My thoughts on this flag:
 </summary>
+  <br>
 I wanted to make this flag as simple as possible, breaking down what goes into a flag. I wanted to teach them about what I called a "maker's prefix" because it varies from event to event. For example, MetaCTF's prefix is MetaCTF and UBSEC's prefix is UBSEC. Ours is CTS.
 
 I also wanted to teach them about the use of curly brackets as a "container" to hold the answer.
