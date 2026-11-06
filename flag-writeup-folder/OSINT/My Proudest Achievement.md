@@ -35,7 +35,7 @@ Join the UBSIT Discord and read my bio. Solution may become out of date if I bea
 My personal thoughts on this flag:
 </summary>
 <br>
-This is the flag that I screwed up the most making. On the day of the event, I forgot that I like to keep my profile private. When I saw my bio from a contestant's POV, it was hidden. I ended up writing this one on the whiteboard to fairly compensate everyone. There were challenges that were way harder than 10 points anyways. Completely my fault for not asking someone to test it. <br>
+This is the flag that I screwed up the most making. I forgot that I like to keep my profile private. When I saw my bio from a contestant's POV, it was hidden. I ended up writing this one on the whiteboard to fairly compensate everyone. There were challenges that were way harder than 10 points anyways. Completely my fault for not asking someone to test it. <br>
   <br>
 I thought that going on idle (so I would appear at the top) would have made it nice enough to find (because my name is literally a smiley face on discord) <br>
   <br>
