@@ -4,7 +4,7 @@
 
 In the 12th year of King Hammurabi's reign, a scribe named Nabu worked in Eridu's temple copying from 3,000 clay tablets. When the 62-year-old head priest warned that the Akkadians were 9 days away, Nabu calculated that the temple's 8 donkeys could save only 720 tablets in time. He chose the most important ones, and the donkeys left on the 3rd, 6th, and 9th days. On the 10th day the Akkadians burned the temple, destroying 2,100 of the 2,280 remaining tablets. Nabu fled to Ur with the 720 saved tablets and died at 53, leaving 1,582 tablets in all—of which 1,200 were found intact in 1850 CE, 3,500 years later, with only 47 ever fully translated while 1,153 still wait unread.
 
-> Points Awarded: 10
+> Points Awarded: 10<br>
 > Disclaimer: In the CTF, all numbers in the "story" were bolded. But you will soon figure out it doesn't make that much of a difference.
 
 ## THE FLAG
