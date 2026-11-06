@@ -8,7 +8,7 @@ They realize the door is made of indestructible steel so they assume nobody's be
 "All clear", you faintly hear. "Cross this place off the list".<br>
 <br>
 You realize that the keypad must have retracted into the door somehow. <br>
-*That's another mystery I'll solve when I way up* you mumble to yourself.<br>
+*That's another mystery I'll solve when I wake up* you mumble to yourself.<br>
 <br>
 The granny slowly goes upstairs to make sure her items are still there.<br>
 When she comes back down, she sits in the chair next to your bedside table.<br>
