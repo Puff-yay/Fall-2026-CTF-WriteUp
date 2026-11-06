@@ -38,6 +38,7 @@ This might be a re-occurring event but quite a lot of these were made close to t
 I was thinking about a double cipher after one of my other challenges I made earlier (Archpriestess Kiryne, Queen of Cryptography).
 I love the mini stories I put into these; they are fun to make.
 
+
 Difficulty (out of 100): 25
 
 Reason: Definitely one of the harder flags I've made during this. Definitely not too tricky after testing a bunch of ciphers for step one.
