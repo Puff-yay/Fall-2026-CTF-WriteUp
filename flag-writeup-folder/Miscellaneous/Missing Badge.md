@@ -6,7 +6,7 @@ My friend challenged me first to solve this puzzle and get the badge wins $10. H
 <br>
 Help me find the badge number. Coincidentally, it's also the answer to this challenge.<br>
 
-![puzzle image](/files-folder/puzzle-image.png)
+![puzzle image](/files-folder/puzzle_image.png)
 
 > Points awarded: 30
 
