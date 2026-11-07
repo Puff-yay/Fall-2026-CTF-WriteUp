@@ -8,9 +8,8 @@ I'd suggest you get your weakest member to do this challenge.<br>
 And if you don't have a team... HAHAHAHAHA!!<br>
 The password is a number from 1 to 500.<br>
 
-![guessing_game.pdf](/files-folder/guessing_game.pdf)
 > Points awarded: 25<br>
-> Disclaimer: I am aware that the PDF doesn't work. It cannot read the embedded code because it is password protected. But the details in the bottom sections will tell you what it looked like.
+> Disclaimer: The contestants were given the actual PDF. GitHub cannot load a PDF's embedded code while it has a password protection on it, therefore, it would be about as useful as a corrupted txt file. Instead, I have provided a section called images of the PDF, located at the bottom for you all to see what the contestants saw. I hope this is an acceptable solution.
 
 ## THE FLAG
 
@@ -49,4 +48,7 @@ Reason: Gingerbread for the random guessing, 5 for the password crackers, 3 for 
 <summary>
   PDF Images.
 </summary>
+  ![password-protection.png](/files-folder/password-protection.png)
+  ![pdf-message.png](/files-folder/pdf-message.png)
+  ![pdf-message-solved.png](/files-folder/pdf-message-solved.png)
 </details>
