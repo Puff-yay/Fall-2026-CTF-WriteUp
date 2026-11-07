@@ -1,11 +1,10 @@
-# I spy with my little eye...
+# Missing Badge
 
 ## OVERVIEW
 
-Snapped a picture for my instagram. People are asking me where I took this image but I don't remember because it was so long ago.
-
-Flag is in the format CTS{hallName}. You do not need to type the word "hall".
-
+My friend challenged me first to solve this puzzle and get the badge wins $10. He didn't bother telling me what puzzle it is nor the badge it's attached to. Stupid cheater friend.<br>
+<br>
+Help me find the badge number. Coincidentally, it's also the answer to this challenge.<br>
 
 > Points awarded: 15
 
@@ -15,7 +14,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{capen}</code> or <code>CTS{fronczak}</code>
+<code>CTS{1879307814563194}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -24,9 +23,7 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-This is a challenge made for UB Students. Capen is one of the most popular halls due to there being Silverman Library (featured in the picture) and also One World Cafe. The hall featured on the right side is Fronczak Hall, which is why that was also accepted. <br>
-  <br>
-I'll be honest, I'm not sure how to solve it for a non-UB student.
+Reverse search the image. It's a rough drawing of a puzzle called "Puthing Around" in Secret Universe. Secret Universe is a Roblox game. Look through the game's badges to find one that has an icon similar to the image I drew. Click on the badge, then using the URL, copy and paste the string of numbers you see which is the badge number.
 </details>
 
 ## PERSONAL THOUGHTS
@@ -36,10 +33,10 @@ I'll be honest, I'm not sure how to solve it for a non-UB student.
 My personal thoughts on this flag:
 </summary>
 <br>
-I took this image on the way to the location of "Hidden Away". It was 11:26AM (and the day of the event) when I took this image. I thought this would be obscure enough but it was not. A very nice introduction to OSINT for those who don't know about it <br>
+I was definitely inspired by secret universe. Shoutout to Feodoric because his videos are amazing. I thought Puthing Around (or Puths as they call it) was a pretty well known puzzle outside of Roblox. Guess I was wrong. Anyways, I was thinking about how you might need to look at a badge's description to find the answer. Instead, I use the badge's number since I can't just ask Feodoric to edit a badge just for a UBSIT challenge. It would have been useless because nobody came close to solving this. I should have made this 40-50 points and put at least 1 hint in. <br>
 <br>
-Difficulty (out of 100): 2 (for UB Students), Gingerbread (for non-UB students)<br>
-Reason: Way easier than intended, almost every group that opened the image got the location.
+Difficulty (out of 100): 25 <br>
+Reason: Extensive knowledge or reverse image search needed. The steps to solve this were wacky at times and the solution is very <strong>unique</strong>.
 </details>
 
 
