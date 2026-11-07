@@ -37,7 +37,7 @@ I'll be honest, I'm not sure how to solve it for a non-UB student.
 My personal thoughts on this flag:
 </summary>
 <br>
-I took this image on the way to the location of "Hidden Away". I thought this would be obscure enough but it was not. A very nice introduction to OSINT for those who don't know about it <br>
+I took this image on the way to the location of "Hidden Away". It was 11:26AM (and the day of the event) when I took this image. I thought this would be obscure enough but it was not. A very nice introduction to OSINT for those who don't know about it <br>
 <br>
 Difficulty (out of 100): 2 (for UB Students), Gingerbread (for non-UB students)<br>
 Reason: Way easier than intended, almost every group that opened the image got the location.
