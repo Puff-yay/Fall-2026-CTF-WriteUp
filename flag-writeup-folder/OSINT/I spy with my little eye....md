@@ -1,14 +1,14 @@
-# My Proudest Achievement
+# I spy with my little eye...
 
 ## OVERVIEW
 
-I like to showcase my hardest roblox parkour feats in my discord bio. Oh, I'm also the VP of UBSIT.
+Snapped a picture for my instagram. People are asking me where I took this image but I don't remember because it was so long ago.
 
-What's the difficulty rating of my hardest tower beaten?
+Flag is in the format CTS{hallName}. You do not need to type the word "hall".
 
-[UBSIT's Discord](ubsit.club/discord)
+![location1.png](/files-folder/location1.png)
 
-> Points awarded: 10
+> Points awarded: 15
 
 ## THE FLAG
 
