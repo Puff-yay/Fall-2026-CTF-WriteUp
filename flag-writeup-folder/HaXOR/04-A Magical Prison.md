@@ -42,6 +42,6 @@ I wanted to continue making more hexadecimal challenges. Also, previous names of
 <br>
 In hindsight, I should have also not made this 40 points. Maybe 25 or 30 points would have been more accurate. <br>
   <br>
-Difficulty (out of 100): 20 <br>
+Difficulty (out of 100): 16 <br>
 Reason: It's quite easy to look up a XOR Bruteforce.
 </details>
