@@ -35,7 +35,9 @@ My personal thoughts on this flag:
 <br>
 I'ma start off by saying I think this flag broke at the start of the challenge. It gave them a green light after only submitting one but I did fix it if it did happen. I think a fellow host might have also fixed it. Shoutout to Kevin if you're reading this and did fix it. I do know that it got fixed after looking at a contestant's screen. Also, I was going to include something about the password but I didn't know how to phrase "code of the day" into an answer. I loved talking about this topic because it's so weird that fridges got hacked into and their internal temp raised from -19C to 50C (nice fridge temps to 122F) <br>
 <br>
-Difficulty (out of 100): 8 <br>
+On second thought, I should have made this 15 points due to the deeper search required.<br>
+  <br>
+Difficulty (out of 100): 6 <br>
 Reason: The searches required more deeper looking.
 </details>
 
