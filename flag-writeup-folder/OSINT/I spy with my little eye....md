@@ -25,7 +25,9 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-This is a challenge made for UB Students. Capen is one of the most popular halls due to there being Silverman Library (featured in the picture) and also One World Cafe. The hall featured on the right side is Fronczak Hall, which is why that was also accepted.
+This is a challenge made for UB Students. Capen is one of the most popular halls due to there being Silverman Library (featured in the picture) and also One World Cafe. The hall featured on the right side is Fronczak Hall, which is why that was also accepted. <br>
+  <br>
+I'll be honest, I'm not sure how to solve it for a non-UB student.
 </details>
 
 ## PERSONAL THOUGHTS
@@ -35,11 +37,9 @@ This is a challenge made for UB Students. Capen is one of the most popular halls
 My personal thoughts on this flag:
 </summary>
 <br>
-This is the flag that I screwed up the most making. I forgot that I like to keep my profile private. When I saw my bio from a contestant's POV, it was hidden. I ended up writing this one on the whiteboard to fairly compensate everyone. There were challenges that were way harder than 10 points anyways. Completely my fault for not asking someone to test it. <br>
-  <br>
-I thought that going on idle (so I would appear at the top) would have made it nice enough to find (because my name is literally a smiley face on discord) <br>
-  <br>
-Difficulty (out of 100): 1 <br>
-Reason: Broken flag, will not do this type of flag in the future unless we can test it to make sure others can see the bio.
+I took this image on the way to the location of "Hidden Away". I thought this would be obscure enough but it was not. A very nice introduction to OSINT for those who don't know about it <br>
+<br>
+Difficulty (out of 100): 2 (for UB Students), Gingerbread (for non-UB students)<br>
+Reason: Way easier than intended, almost every group that opened the image got the location.
 </details>
 
