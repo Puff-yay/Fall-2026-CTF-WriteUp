@@ -44,7 +44,7 @@ I was surprised nobody reverse image searched it. I think people were just intim
 
 [Will Anderson's Video](https://www.youtube.com/watch?v=c49a1rtZiuw&amp;t=266s)<br>
 
-Difficulty (out of 100): 8 or 11
+Difficulty (out of 100): 8 or 11 <br>
 Reason: 8 for the people who reverse searched it. 11 for those who put it into a free scrabble solver.
 </details>
 
