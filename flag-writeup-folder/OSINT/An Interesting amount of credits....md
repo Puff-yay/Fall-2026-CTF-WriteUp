@@ -7,7 +7,7 @@ There is one class at UB that gives exactly 0.8 credits. How did I stumble upon 
 We're looking for 3 letters followed by 3 numbers with a space in between. Example: CTS{ERT 102}
 
 > Points awarded: 25 <br>
-> <details><summary>Hint 1 (Cost: 20) </summary>I think I remember where I was looking now. I clicked into the *Nuclear Medicine Technology* major, looking through all of their course requirements.</details>
+> <details><summary>Hint 1 (Cost: 20) </summary>I think I remember where I was looking now. I clicked into the <strong>Nuclear Medicine Technology</strong> major, looking through all of their course requirements.</details>
 
 ## THE FLAG
 
