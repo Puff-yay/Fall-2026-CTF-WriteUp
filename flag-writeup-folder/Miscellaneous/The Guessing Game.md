@@ -38,6 +38,6 @@ My personal thoughts on this flag:
 <br>
 This was fun to make because of the white text. I was going to make the white text smaller but decided I didn't feel like remaking the PDF. I also made this challenge solely for the people who didn't know anything but wanted to contribute. Also the number 318 has nothing special to me. I was also originally going to put the white text above some of the big black text.<br>
 <br>
-Difficulty (out of 100): 4 <br>
-Reason: The searches required more deeper looking.
+Difficulty (out of 100): 8 (for the password crackers), Gingerbread + 3 (for the guessers)
+Reason: Gingerbread for the random guessing, 5 for the password crackers, 3 for the white text. Easy and frustrating at the same time in one challenge.
 </details>
