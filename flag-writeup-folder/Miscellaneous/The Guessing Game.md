@@ -48,7 +48,7 @@ Reason: Gingerbread for the random guessing, 5 for the password crackers, 3 for 
 <summary>
   PDF Images.
 </summary>
-  ![password-protection.png](/files-folder/password-protection.png)
-  ![pdf-message.png](/files-folder/pdf-message.png)
-  ![pdf-message-solved.png](/files-folder/pdf-message-solved.png)
+  ![password-protection.png](/files-folder/password-protection.png)<br>
+  ![pdf-message.png](/files-folder/pdf-message.png)<br>
+  ![pdf-message-solved.png](/files-folder/pdf-message-solved.png)<br>
 </details>
