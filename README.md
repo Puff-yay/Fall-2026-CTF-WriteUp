@@ -29,4 +29,5 @@ Most of my challenges spanned a couple of categories including:
 
 Disclaimer: Some challenges are visually different than what the participants saw in the CTF. Most changes will not be stated unless absolutely necessary.
 
-Also if not all challenges are here, that means either I've yet to write them or I can't access the challenges.
+Overall, I think I could have toned down some difficulties and amped up others. Additionally, I think I should have added more hints for certain challenges.<br>
+Also, I'm definitely making another storyline and I promise it won't be HaXOR.
