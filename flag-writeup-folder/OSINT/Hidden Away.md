@@ -20,7 +20,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{charles_e_puffer</code>
+<code>CTS{charles_e_puffer}</code>
 </details>
 
 ## INTENDED SOLUTION
