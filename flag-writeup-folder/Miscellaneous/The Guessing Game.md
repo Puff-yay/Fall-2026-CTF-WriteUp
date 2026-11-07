@@ -9,7 +9,8 @@ And if you don't have a team... HAHAHAHAHA!!<br>
 The password is a number from 1 to 500.<br>
 
 ![guessing_game.pdf](/files-folder/guessing_game.pdf)
-> Points awarded: 25
+> Points awarded: 25<br>
+> Disclaimer: I am aware that the PDF doesn't work. It cannot read the embedded code because it is password protected. But the details in the bottom sections will tell you what it looked like.
 
 ## THE FLAG
 
@@ -40,4 +41,12 @@ This was fun to make because of the white text. I was going to make the white te
 <br>
 Difficulty (out of 100): 8 (for the password crackers), Gingerbread + 3 (for the guessers)
 Reason: Gingerbread for the random guessing, 5 for the password crackers, 3 for the white text. Easy and frustrating at the same time in one challenge.
+</details>
+
+## IMAGES OF THE PDF
+
+<details>
+<summary>
+  PDF Images.
+</summary>
 </details>
