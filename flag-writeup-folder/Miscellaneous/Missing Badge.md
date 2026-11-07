@@ -6,7 +6,9 @@ My friend challenged me first to solve this puzzle and get the badge wins $10. H
 <br>
 Help me find the badge number. Coincidentally, it's also the answer to this challenge.<br>
 
-> Points awarded: 15
+![puzzle image](/files-folder/puzzle-image.png)
+
+> Points awarded: 30
 
 ## THE FLAG
 
@@ -38,8 +40,3 @@ I was definitely inspired by secret universe. Shoutout to Feodoric because his v
 Difficulty (out of 100): 25 <br>
 Reason: Extensive knowledge or reverse image search needed. The steps to solve this were wacky at times and the solution is very <strong>unique</strong>.
 </details>
-
-
-
-
-![location1.png](/files-folder/location1.png)
