@@ -59,3 +59,10 @@ Reason: 8 for the people who reverse searched it. 11 for those who put it into a
 ![scrabble answer](/files-folder/the-answer.png)
 
 </details>
+
+<details>
+<summary>Video</summary>
+
+[Will Anderson's Video](https://www.youtube.com/watch?v=c49a1rtZiuw&amp;t=266s)
+
+</details>
