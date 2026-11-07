@@ -6,8 +6,8 @@ There is one class at UB that gives exactly 0.8 credits. How did I stumble upon 
 
 We're looking for 3 letters followed by 3 numbers with a space in between. Example: CTS{ERT 102}
 
-> Points awarded: 25
-> Hint 1: 
+> Points awarded: 25 <br>
+> <details><summary>Hint 1 (Cost: 20) </summary>I think I remember where I was looking now. I clicked into the **Nuclear Medicine Technology** major, looking through all of their course requirements.</details>
 
 ## THE FLAG
 
@@ -24,7 +24,7 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-To the left you can see governors. To the right you can see the math building. Using google maps and seeing where I was standing, you had to use street view to see the sign I was standing next to.<br>
+Look through UB's courses and hope you stumble into it.
 </details>
 
 ## PERSONAL THOUGHTS
@@ -34,12 +34,12 @@ To the left you can see governors. To the right you can see the math building. U
 My personal thoughts on this flag:
 </summary>
 <br>
-Took this image 11 minutes after "I spy with my little eye...". I knew this place existed and I always thought the name was Claudia E. Puffer. I always walked through that area to get to the barber shop on Sweet Home Rd when I lived in Governors.<br>
+This was the first challenge I've ever made! I found this class before the CTS and thought to use it. I was looking for the easiest majors (by credits) and I saw one of the graduation requirements needed 102.8 credits. That's how I found this. <br>
 <br>
-A lot of people during the event guessed Governors and/or Governors. I should have specified to name the grove I was standing in. I felt like if I had said grove, it would have given it away. <br>
-<br>
-Before the event, I put the image in and asked for people to see if they could identify it. Alyssa asked if it was even possible to find the name of the area. I used google maps and was pleased to see that you can see the signage for the grove from the street view. <br>
-<br>
-Difficulty (out of 100): 27 <br>
-Reason: It's not too hard to find it once you know the buildings in the background. The hard part was trying to figure out the name of the place which was hard to see on google maps.
+I legit don't know how people were supposed to solve it. I did tell people about the interesting class in the UBSIT Discord way before the CTS which is how at least 1 person got it. How the others got it is beyond me. I asked an AI to try to find it and it couldn't.<br>
+  <br>
+This challenge was going to be worth 50 at some point, then docked to 20, and I was going to make it 30 at some point. I finally decided on 25 because I knew other challenges would be worth more. <br>
+  <br>
+Difficulty (out of 100): Gingerbread <br>
+Reason: Literal Guessing.
 </details>
