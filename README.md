@@ -15,7 +15,7 @@ This repository will contain all of the challenges I made for this event, includ
 - Intended Solution (or at least MY intended solution)
 - Personal Thoughts
   - This also includes a difficulty rating from 1 to an insane 100. No challenges I make this time around will hit a 100 but there are some that will be up there for now.
-    - Occasionally, I will use Gingerbread for my difficulty. This is an EToH reference but it means I just couldn't assign it a difficulty number.
+    - Occasionally, I will use Gingerbread for my difficulty. This is an EToH reference but it means I don't know what the difficulty is.
   - This section also includes some stuff that you might not know about the challenge's creation so please give this a read.
 
 Most of my challenges spanned a couple of categories including:
