@@ -16,7 +16,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{9.30}</code>
+<code>CTS{capen}</code> or <code>CTS{fronczak}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -25,7 +25,7 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-Join the UBSIT Discord and read my bio. Solution may become out of date if I beat a new hardest tower. But as I'm writing this writeup, (11/6/26) it's still 9.30.
+This is a challenge made for UB Students. Capen is one of the most popular halls due to there being Silverman Library (featured in the picture) and also One World Cafe. The hall featured on the right side is Fronczak Hall, which is why that was also accepted.
 </details>
 
 ## PERSONAL THOUGHTS
