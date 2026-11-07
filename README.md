@@ -27,3 +27,5 @@ Most of my challenges spanned a couple of categories including:
 - Miscellaneous
 
 Disclaimer: Some challenges are visually different than what the participants saw in the CTF. These will be pointed out **if necessary**.
+
+Also if not all challenges are here, that means either I've yet to write them or I can't access the challenges.
