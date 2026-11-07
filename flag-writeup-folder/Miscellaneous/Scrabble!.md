@@ -40,9 +40,9 @@ My personal thoughts on this flag:
 </summary>
 <br>
 I was surprised nobody reverse image searched it. I think people were just intimidated by it so nobody solved it. I personally was stunned to see that move go down on the board. As stated in the video, in 100 Million AI vs AI scrabble games where the AIs never miss the best move, an 11 word played through 4 disconnected tiles was only seen 152 times.<br>
-<br>
+
 [Will Anderson's Video](https://www.youtube.com/watch?v=c49a1rtZiuw&amp;t=266s)<br>
-<br>
+
 Difficulty (out of 100): 8 or 11
 Reason: 8 for the people who reverse searched it. 11 for those who put it into a free scrabble solver.
 </details>
@@ -57,12 +57,5 @@ Reason: 8 for the people who reverse searched it. 11 for those who put it into a
 ![the board](/files-folder/initial-board.png)
 ![the rack](/files-folder/the-rack.png)
 ![scrabble answer](/files-folder/the-answer.png)
-
-</details>
-
-<details>
-<summary>Video</summary>
-
-[Will Anderson's Video](https://www.youtube.com/watch?v=c49a1rtZiuw&amp;t=266s)
 
 </details>
