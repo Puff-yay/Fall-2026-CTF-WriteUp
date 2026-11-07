@@ -2,11 +2,10 @@
 
 ## OVERVIEW
 
-A literal guessing game with a sweet finale.<br>
-I'd suggest you get your weakest member to do this challenge.<br>
-<br>
-And if you don't have a team... HAHAHAHAHA!!<br>
-The password is a number from 1 to 500.<br>
+I love watching scrabble, but I'm not good at scrabble.. So I'm making you solve some puzzles about it for no reason.<br>
+Your turn to play, there is only one good play. What is it? There's an easy way to do this and a hard way to do it.<br>
+
+Flag is in the format CTS{word:points}
 
 > Points awarded: 30<br>
 > Disclaimer: The contestants were given a scrabble board that I made (with the help of AI) that was hosted in a repository right here on this account. I hated the repo and killed it. However, I do know where I got my challenge from so I took some pictures from that instead. These images will also be at the bottom, under personal thoughts.
@@ -17,7 +16,7 @@ Spoilers below!
 
 <details>
 <summary>The flag is:</summary>
-<code>CTS{n0th1ng_t0_s33_h3r3}</code>
+<code>CTS{eternalised:65}</code>
 </details>
 
 ## INTENDED SOLUTION
@@ -26,7 +25,11 @@ Spoilers below!
 <summary>
 The solution is:
 </summary>
-Guessing the number 318 by pure chance or a password cracker. Also Ctrl + A lets you see all the text, including font size 8 white text.
+I was thinking of 4 different ways to solve this. (3 unique ways).<br>
+Option 1: Be good at scrabble. Not the best way to solve this but it's a method.<br>
+Option 2: Reverse image search my scrabble board. Surely the video wouldn't just pop up... right?<br>
+Option 3: Use an online scrabble solver. It's not the best at solving and I think it can spot this one.<br>
+Option 4: Use Macondo. It's a even more complex scrabble solver that can see this word or sure.<br>
 </details>
 
 ## PERSONAL THOUGHTS
@@ -36,21 +39,23 @@ Guessing the number 318 by pure chance or a password cracker. Also Ctrl + A lets
 My personal thoughts on this flag:
 </summary>
 <br>
-This was fun to make because of the white text. I was going to make the white text smaller but decided I didn't feel like remaking the PDF. I also made this challenge solely for the people who didn't know anything but wanted to contribute. Also the number 318 has nothing special to me. I was also originally going to put the white text above some of the big black text.<br>
+I was surprised nobody reverse image searched it. I think people were just intimidated by it so nobody solved it. I personally was stunned to see that move go down on the board. As stated in the video, in 100 Million AI vs AI scrabble games where the AIs never miss the best move, an 11 word played through 4 disconnected tiles was only seen 152 times.<br>
 <br>
-Difficulty (out of 100): 8 (for the password crackers), Gingerbread + 3 (for the guessers)
-Reason: Gingerbread for the random guessing, 5 for the password crackers, 3 for the white text. Easy and frustrating at the same time in one challenge.
+![Will Anderson's Video](https://www.youtube.com/watch?v=c49a1rtZiUw&t=266s)<br>
+  <br>
+Difficulty (out of 100): 8 or 11
+Reason: 8 for the people who reverse searched it. 11 for those who put it into a free scrabble solver.
 </details>
 
-## IMAGES OF THE PDF
+## IMAGES OF THE SCRABBLE BOARD
 
 <details>
-<summary>PDF Images.</summary>
+<summary>Scrabble Board Images</summary>
 
 <br>
 
-![password protection](/files-folder/password-protection.png)
-![pdf message](/files-folder/pdf-message.png)
-![pdf message solved](/files-folder/pdf-message-solved.png)
+![the board](/files-folder/initial-board.png)
+![the rack](/files-folder/the-rack.png)
+![scrabble answer](/files-folder/the-answer.png)
 
 </details>
